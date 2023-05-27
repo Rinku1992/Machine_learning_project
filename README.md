@@ -46,3 +46,9 @@ docker ps -a
 docker stop CONTAINER_ID
 docker rm CONTAINER_ID
 '''
+
+'''
+python setup.py install
+
+'''
+
