@@ -52,3 +52,21 @@ python setup.py install
 
 '''
 
+'''
+Artifacts output at each  step or stage of pipeline.In the entity we are going to define each component of pipeline.
+Dataingestion Artifact
+Datavalidation artifact
+Datatransformation artifact
+Modeltrainer artifact
+modelevaluation artifact
+modelpush artifact
+
+The above one will be an output but we also need an input at each component. this is called configuration like
+Dataingestion config
+Datavalidation config
+Datatransformation config
+'''
+
+'''
+In config folder we will have some files, database, or any information.
+'''
