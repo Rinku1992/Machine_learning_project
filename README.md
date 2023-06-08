@@ -70,3 +70,8 @@ Datatransformation config
 '''
 In config folder we will have some files, database, or any information.
 '''
+
+'''
+Install ipynb kernel
+pip install ipykernel
+''
